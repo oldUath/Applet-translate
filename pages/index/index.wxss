@@ -1,3 +1,4 @@
+/**index.wxss**/
 
 .change {
   color: #8995a1;
@@ -11,7 +12,7 @@
 }
 .change .icon-down {
   color: #8995a1;
-  font-size: 30rpx;
+  font-size: 20rpx;
 }
 
 .input-area {
@@ -37,11 +38,12 @@
   color: #888;
 }
 
-.input-area .text-area {
+.text-area {
   min-height: 80rpx;
   padding: 40rpx;
   background-color: #fff;
 }
+
 .input-area .text-title {
   font-size: 28rpx;
   color: #8995a1;
@@ -50,3 +52,5 @@
 .input-area .text-result {
   padding: 20rpx 0;
 }
+
+
