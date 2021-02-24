@@ -11,7 +11,9 @@
   color: #8995a1;
 }
 .item {
+  padding: 0 20rpx;
   margin-top: 40rpx;
+  border-bottom: 1px solid #8995a1;
 }
 
 .item .query {

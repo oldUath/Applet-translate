@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-  <view class="change">
+  <view class="change">                                                                         
     <navigator url="/pages/change/change" hover-class="navigator-hover">
       <text>翻译为 {{curLang.chs}}</text>
       <text class="iconfont icon-down"></text>

@@ -2,7 +2,7 @@
 
 .change {
   color: #8995a1;
-  font-size: 24rpx;
+  font-size: 30rpx;
   padding: 20rpx 40rpx;
   display: flex;
   align-items: center;
@@ -12,7 +12,7 @@
 }
 .change .icon-down {
   color: #8995a1;
-  font-size: 20rpx;
+  font-size: 28rpx;
 }
 
 .input-area {
@@ -34,13 +34,13 @@
   right: 12rpx;
   top: 20rpx;
   z-index: 100;
-  font-size: 40rpx;
+  font-size: 80rpx;
   color: #888;
 }
 
 .text-area {
   min-height: 80rpx;
-  padding: 40rpx;
+  padding: 40rpx 0 160rpx 20rpx;
   background-color: #fff;
 }
 
@@ -49,8 +49,9 @@
   color: #8995a1;
 }
 
-.input-area .text-result {
-  padding: 20rpx 0;
+.text-result {
+  padding: 20rpx 30rpx;
+  color: #000;
 }
 
 

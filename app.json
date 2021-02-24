@@ -12,15 +12,18 @@
     "backgroundColor": "#333"
   },
   "tabBar": {
-    "position": "top",
+    "position": "bottom",
     
     "list": [{
       "pagePath": "pages/index/index",
       "text": "首页",
-      "iconPath": ""
+      "iconPath": "/images/tras.png",
+      "selectedIconPath": "/images/tras-1.png"
     }, {
       "pagePath": "pages/history/history",
-      "text": "日志"
+      "text": "历史",
+      "iconPath": "/images/his.png",
+      "selectedIconPath": "/images/his-1.png"
     }]
   },
   "style": "v2",
