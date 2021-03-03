@@ -22,11 +22,11 @@ function translate(q, { from = 'auto', to = 'auto' } = { from: 'auto', to: 'auto
           resolve(res.data)
         } else {
           reject({ status: 'error', msg: '翻译失败' })
-          wx.showToast({
-            title: '翻译失败',
-            icon: 'none',
-            duration: 3000
-          })
+          // wx.showToast({
+          //   title: '翻译失败',
+          //   icon: 'none',
+          //   duration: 3000
+          // })
         }
       },
       fail() {

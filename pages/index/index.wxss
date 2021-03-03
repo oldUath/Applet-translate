@@ -7,6 +7,9 @@
   display: flex;
   align-items: center;
 }
+.cur{
+  color: #000;
+}
 .change .icon-right {
   color: #888;
 }
@@ -14,7 +17,9 @@
   color: #8995a1;
   font-size: 28rpx;
 }
-
+.change .ok{
+  margin-right: 1px;
+}
 .input-area {
   position: relative;
 }

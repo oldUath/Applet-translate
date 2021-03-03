@@ -8,14 +8,14 @@ App({
     curLang: {},
     langList: [
       {
+        'chs': '中文',
+        'lang': 'zh', 
+        "index": 1
+      },
+      {
         'chs': '英文',
         "lang": 'en',
         "index": 0
-      },
-      {
-        'chs': '中文',
-        'lang': 'zh',
-        "index": 1
       },
       {
         'chs': '日语',
