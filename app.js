@@ -10,12 +10,12 @@ App({
       {
         'chs': '中文',
         'lang': 'zh', 
-        "index": 1
+        "index": 0
       },
       {
         'chs': '英文',
         "lang": 'en',
-        "index": 0
+        "index": 1
       },
       {
         'chs': '日语',

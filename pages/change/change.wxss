@@ -39,4 +39,8 @@
 .item:nth-child(2) .item-inner {
   border-top: none;
 }
+.item .icon-duihao{
+  font-size: 60rpx;
+  color: green;
+}
 
